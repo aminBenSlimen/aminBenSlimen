@@ -1,7 +1,7 @@
 ### Hi,I'm Amin Benslimen 👋
 
 - 🔭 I’m currently working as a front-end developer at PMC 
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on Unity.
 - 🤔 I’m looking for help with figuring out new ideas.
 - 💬 Ask me about any tech related stuff.
