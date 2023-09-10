@@ -7,5 +7,4 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: my E-mail : aminbenslimen00@gmail.com.
 - 👀 Know me more : [Portfolio](https://aminbenslimen.com)
-- 😄 Pronouns: He/His.
 - ⚡ Fun fact: there is always an inner me that says " don't read documentations "
